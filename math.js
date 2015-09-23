@@ -8,7 +8,7 @@ module.exports = {
     return a - b;
   },
   
-  divide: function(a, b) {
+  div: function(a, b) {
     return a / b;
   }
 
