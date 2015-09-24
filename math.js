@@ -6,6 +6,10 @@ module.exports = {
   
   sub: function(a, b) {
     return a - b;
+  },
+  
+  square: function(a) {
+    return a * a;
   }
 
 };
