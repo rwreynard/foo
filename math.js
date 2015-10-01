@@ -10,6 +10,10 @@ module.exports = {
   
   square: function(a) {
     return a * a;
+  },
+  
+  div: function(a, b) {
+    return a / b;
   }
 
 };
